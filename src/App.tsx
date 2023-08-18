@@ -8,8 +8,8 @@ import Testing from "./components/Testing";
 function App() {
 	return (
 		<div className="app">
-			{/* <DocksideDailySummary /> */}
-			<DocksideReport />
+			<DocksideDailySummary />
+			{/* <DocksideReport /> */}
 		</div>
 	);
 }
